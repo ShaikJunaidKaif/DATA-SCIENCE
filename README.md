@@ -1,10 +1,13 @@
 🙋‍♂️ About Me
-🌱 I’m currently learning Data Science and Machine Learning,Deep Learning,AI,LLM
+# Data Science Portfolio
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks, and R markdown files (published at RPubs).
 
-👯 I’m looking to collaborate on OpenSource Projects
+For a more visually pleasant experience for browsing the portfolio, check out
 
-👨‍💻 All of my projects are available at My Portfolio
+_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
 
-📫 How to reach me juniadshaik5818@gmail.com
+## Instructions for Running Python Notebooks Locally
+1. Install dependencies using requirements.txt.
+2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
-⚡ Fun fact I play games and go to the GYM very often.
+## Contents
