@@ -1,5 +1,5 @@
 # Image Generation using CLIP and VQGAN
-<img align="right" alt="Coding" width="400"![Capture](https://github.com/ShaikJunaidKaif/DATA-SCIENCE/assets/157692918/723a837c-1fe8-4313-b3d2-8457841dcdb9)>
+![Capture](https://github.com/ShaikJunaidKaif/DATA-SCIENCE/assets/157692918/723a837c-1fe8-4313-b3d2-8457841dcdb9)
 
 This repository contains code for generating images using CLIP (Contrastive Language-Image Pre-training) and VQGAN (Vector Quantized Generative Adversarial Network). Below is a summary of the main parts of the code:
 
