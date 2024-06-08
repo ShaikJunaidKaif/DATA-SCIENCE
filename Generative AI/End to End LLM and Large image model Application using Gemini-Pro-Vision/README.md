@@ -1,4 +1,4 @@
-# End-to-End LLM and Large image model Application using Gemini-Pro-Vision
+# End-to-End LLM and Large image model Application using Gemini-Pro
 ![thumbnail](https://github.com/ShaikJunaidKaif/DATA-SCIENCE/assets/157692918/61a2ea21-aa8c-4f75-8c13-476c542a6b1c)
 
 ## Overview
